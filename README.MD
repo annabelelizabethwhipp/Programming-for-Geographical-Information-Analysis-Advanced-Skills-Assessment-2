@@ -4,6 +4,7 @@
 ## Time series analysis
 
 The purpose of this project is to apply different methods of time sries analysis to an appropriate dataset
+
 The methods utilised include the following:
 
 - Visualising time series data
@@ -17,7 +18,7 @@ The methods utilised include the following:
 
 - Anomaly detection
 
-of
+
 - ARIMA modelling
 
 
