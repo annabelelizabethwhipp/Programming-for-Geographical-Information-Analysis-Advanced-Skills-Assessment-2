@@ -17,7 +17,7 @@ The methods utilised include the following:
 
 - Anomaly detection
 
-
+of
 - ARIMA modelling
 
 
@@ -26,7 +26,7 @@ The methods utilised include the following:
 
 # Files
 
-- The project folder contains a Jupyter notebook file, a csv with footfall data needed to run the Jupyter notebook and a PDF of the code
+- The project folder contains a Jupyter notebook file, a csv with footfall data needed to run the Jupyter notebook and a PDF of the Jupyter notebook
 
 
 - The CSV file conists of two columns the date and corresponding footfall counts for each date
