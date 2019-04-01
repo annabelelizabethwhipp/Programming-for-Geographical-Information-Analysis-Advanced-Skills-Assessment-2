@@ -1,4 +1,4 @@
-# Assessment 2 for Programming for Geographical Information Analysis: Advanced Skills
+# Assessment Two for Programming for Geographical Information Analysis: Advanced Skills
 
 
 ## Time series analysis
